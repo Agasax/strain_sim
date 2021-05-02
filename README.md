@@ -12,6 +12,6 @@ Each gif frame is a an individual simulation.
 
 ![](strain2.gif)
 
-## All strains with 100 initial cases
+## All strains with 400 initial cases
 
 ![](strain3.gif)

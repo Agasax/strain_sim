@@ -72,6 +72,6 @@ strain_sim_plot(strain_sim(k = 0.16, mu = 2.8, seeds = c(25, 25, 50, 25)))
 
 gganimate::anim_save("strain2.gif")
 
-strain_sim_plot(strain_sim(k = 0.16, mu = 2.8, seeds = rep(100,4)))
+strain_sim_plot(strain_sim(k = 0.16, mu = 2.8, seeds = rep(400,4)))
 
 gganimate::anim_save("strain3.gif")
