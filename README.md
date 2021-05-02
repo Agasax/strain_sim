@@ -1,10 +1,14 @@
 # Strain simulation
 
-Simulation of dominance of strains using negative binomial distribution \#\# 10 initial cases each:
+Simulation of dominance of strains using negative binomial distribution.
+
+Each gif frame is a an individual simulation.
+
+## 25 initial cases each:
 
 ![](strain.gif)
 
-## One strain with 25 intial cases, the rest 10
+## One strain with 50 intial cases, the rest 25
 
 ![](strain2.gif)
 

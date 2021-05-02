@@ -64,11 +64,11 @@ strain_sim_plot <- function(x) {
 }
 
 
-strain_sim_plot(strain_sim(k = 0.16, mu = 2.8, seeds = c(10, 10, 10, 10)))
+strain_sim_plot(strain_sim(k = 0.16, mu = 2.8, seeds = c(25, 25, 25, 25)))
 
 gganimate::anim_save("strain.gif")
 
-strain_sim_plot(strain_sim(k = 0.16, mu = 2.8, seeds = c(10, 10, 25, 10)))
+strain_sim_plot(strain_sim(k = 0.16, mu = 2.8, seeds = c(25, 25, 50, 25)))
 
 gganimate::anim_save("strain2.gif")
 
